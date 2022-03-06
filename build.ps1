@@ -1,0 +1,1 @@
+docker build -t drakeerv/rocket_stats .
